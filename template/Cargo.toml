@@ -1,0 +1,13 @@
+[package]
+name = "infers_CRATE"
+version = "0.0.1"
+edition = "2018"
+authors = ["Garrett Hoffman <garrett.lee.hoffman@gmail.com>"]
+repository = "https://github.com/infe-rs/infers-crate-reservations"
+description = "This crate is reserved for the infers project"
+license = "MIT"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
